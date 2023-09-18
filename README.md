@@ -38,4 +38,4 @@ Each layout type in Kivy serves a specific purpose and can be chosen based on th
 
 # Assignment
 Create a Kivy GUI using buttons and labels that resembles the GUI layout below:
-![KivyLayoutAssignment](KivyLayoutAssignment.PNG)
+![KivyLayoutAssignment](KivyLayoutAssignment.png)
