@@ -1,4 +1,4 @@
-#Kivy Layout
+# Kivy Layout
 
 Kivy is an open-source Python framework for developing multi-touch applications. It provides several types of layout classes to help you arrange widgets (UI elements) in your Kivy applications in a structured and organized manner. These layouts simplify the process of designing user interfaces. Here are the different types of layouts available in Kivy:
 
@@ -35,3 +35,7 @@ Kivy is an open-source Python framework for developing multi-touch applications.
 - It's useful for centering or aligning a single widget within a larger area.
 
 Each layout type in Kivy serves a specific purpose and can be chosen based on the requirements of your user interface design. You can nest layouts within each other to create complex and responsive UIs. Additionally, Kivy provides properties and attributes to further customize the appearance and behavior of widgets within these layouts.
+
+# Assignment
+Create a Kivy GUI using buttons and labels that resembles the GUI layout below:
+![KivyLayoutAssignment](KivyLayoutAssignment.PNG)
